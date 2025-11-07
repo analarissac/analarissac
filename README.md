@@ -27,14 +27,6 @@
 
 ---
 
-### 📈 Estatísticas do GitHub
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=analarissac&show_icons=true&theme=radical&count_private=true&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analarissac&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
----
-
 ### 📫 Contato
 <p align="center">
   <a href="https://linkedin.com/in/analarissacostas" target="_blank">
